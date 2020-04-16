@@ -17,6 +17,8 @@
 | Est-ce que ... ? | Is ... ? |
 | Vous avez | You have |
 | C'est | It is |
+| Je pense que oui | I think so |
+| Mais ... | But ... |
 
 
 ## La prononciation
@@ -29,6 +31,8 @@
 | Ez | É  |
 | X  | Ks |
 | Au | O  |
+| C  | K (at the begining of the word) | 
+| Oi | Wa |
 
 ## Verbes
 
@@ -45,6 +49,7 @@ Les verbes qui se __terminent__ par la lettre __S__ sont __pluriels__.
 | Être (am)   | Suis  | Es | Est | Sommes | Étes | Sont |
 | Avoir (have)| Ai | As | A | Avons | Avez | Ont |
 | Aller (go)  | Vais | Vas | Va | Allons | Allez | Vont |
+| Faire (activite) | Fais | Fais | Fait | Faisons | Faites | Font |
 
 
 ## Articles
@@ -102,7 +107,7 @@ Les verbes qui __première lettre__ est __voyelle__ et le genre est __masculin__
 
 ## La forme interrogative
 
-> __Pourquoi__ habitez-vous à Pontoise? __Parce que__ je suis ...
+> __Pourquoi__ habitez-vous à Pontoise? __Parce que__ je suis ... (specific) __Parc que'il y a__ des ... (general)
 
 > __Est-ce que__ vous travaillez ...? __Non__, je ne...
 
