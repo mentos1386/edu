@@ -1,5 +1,24 @@
 # Francais
 
+## Words
+
+| | |
+|-------|---------|
+| ça | that |
+| aimer | like |
+| adorer | love |
+| détester | hate |
+| semaine | week |
+| vacances | holidays |
+
+## Phrases
+| | |
+|--------|----------|
+| Est-ce que ... ? | Is ... ? |
+| Vous avez | You have |
+| C'est | It is |
+
+
 ## La prononciation
 > [Wikitonary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page)
 
@@ -63,6 +82,7 @@ Les verbes qui __première lettre__ est __voyelle__ utilisent __L'__.
 ## Adjectifs
 
 ### Les adjectifs démonstratifs
+> Pour désigner quelque chose
 
 |          | Masculin | Féminin |
 |----------|:--------:|:-------:|
@@ -71,13 +91,26 @@ Les verbes qui __première lettre__ est __voyelle__ utilisent __L'__.
 
 Les verbes qui __première lettre__ est __voyelle__ et le genre est __masculin__ utilisent __cet__.
 
-## Questionner
-### Quel
+### Les adjectifs interrogatifs
 
 |          | Masculin | Féminin |
 |----------|:--------:|:-------:|
 |Singulier | Quel     | Quelle  |
 |Pluriel   | Quels    | Quelles |
+
+###  Les Formes
+
+## La forme interrogative
+
+> __Pourquoi__ habitez-vous à Pontoise? __Parce que__ je suis ...
+
+> __Est-ce que__ vous travaillez ...? __Non__, je ne...
+
+> Vous avez la carte ...? __Oui__.
+
+> __Quel__ est le nom ...? L'Hôtel des Alpes.
+
+> Vous habitez à __quelle__ adresse? 20 vue ...
 
 ## La forme négative
 
