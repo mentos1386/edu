@@ -12,6 +12,7 @@
 | vacances | holidays |
 
 ## Phrases
+
 | | |
 |--------|----------|
 | Est-ce que ... ? | Is ... ? |
