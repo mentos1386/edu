@@ -25,3 +25,9 @@ Ihe InterPlanetary File System (IPFS) is a protocol and peer-to-peer network for
 
 #### [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent)
 BitTorrent is a communication protocol for peer-to-peer file sharing (P2P) which is used to distribute data and electronic files over the Internet.
+
+#### [El Paquete Semanal](https://en.wikipedia.org/wiki/El_Paquete_Semanal)
+https://youtu.be/fTTno8D-b2E
+El Paquete Semanal ("The Weekly Package") or El Paquete is a one terabyte collection of digital material distributed since around 2008 on the underground market in Cuba as a substitute for broadband Internet.
+
+
