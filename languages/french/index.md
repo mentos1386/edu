@@ -34,6 +34,7 @@
 | Au | O  |
 | C  | K (at the begining of the word) | 
 | Oi | Wa |
+| Eux| E  |
 
 ## Verbes
 
