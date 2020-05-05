@@ -35,6 +35,7 @@
 | C  | K (at the begining of the word) | 
 | Oi | Wa |
 | Eux| E  |
+| In | Ao (when not followed by vowel) |
 
 ## Verbes
 
