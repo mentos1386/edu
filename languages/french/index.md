@@ -106,9 +106,9 @@ Les verbes qui __première lettre__ est __voyelle__ et le genre est __masculin__
 |Singulier | Quel     | Quelle  |
 |Pluriel   | Quels    | Quelles |
 
-###  Les Formes
+##  Les Formes
 
-## La forme interrogative
+### La forme interrogative
 
 > __Pourquoi__ habitez-vous à Pontoise? __Parce que__ je suis ... (specific) __Parc que'il y a__ des ... (general)
 
@@ -120,7 +120,7 @@ Les verbes qui __première lettre__ est __voyelle__ et le genre est __masculin__
 
 > Vous habitez à __quelle__ adresse? 20 vue ...
 
-## La forme négative
+### La forme négative
 
 > Je __ne__ parle __pas__ bien anglais.
 
