@@ -37,6 +37,17 @@
 | Eux| E  |
 | In | Ao (when not followed by vowel) |
 
+### Liaison
+| Terminaison | Prononciation | Phonétique |
+|:--:|:------------------------------------|-----------------|
+| -d | /.t‿/: grand homme ("great man")    | /ɡʁɑ̃.t‿ɔm/.     |
+| -t | /.t‿/: tout homme ("every man")     | /tu.t‿ɔm/.      |
+| -s | /.z‿/: les enfants ("the children") | /le.z‿ɑ̃.fɑ̃/.    |
+| -z | /.z‿/: venez ici ("come here")      | /və.ne.z‿i.si/. |
+| -x | /.z‿/: faux amis ("false friends")  | /fo.z‿a.mi/.    |
+| -f | /.v‿/: neuf ans ("nine years")      | /nœ.v‿ɑ̃/.       |
+| -c | /.k‿/: porc-épic ("porcupine")      | /pɔʁ.k‿e.pik/.  |
+
 ## Verbes
 
 ### Le genre
@@ -50,9 +61,13 @@ Les verbes qui se __terminent__ par la lettre __S__ sont __pluriels__.
 |             | Je       | Tu     | Il/Elle   | Nous | Vous | Ils/Elles |
 |-------------|:--------:|:------:|:---------:|:----:|:----:|:---------:|
 | Être (am)   | Suis  | Es | Est | Sommes | Étes | Sont |
+| Écrire (write) | Écris | Écris | Écrit | Écrivons | Écrivez | Écrivent |
 | Avoir (have)| Ai | As | A | Avons | Avez | Ont |
 | Aller (go)  | Vais | Vas | Va | Allons | Allez | Vont |
-| Faire (activite) | Fais | Fais | Fait | Faisons | Faites | Font |
+| Faire (activity) | Fais | Fais | Fait | Faisons | Faites | Font |
+| Parler (speak) | Parle | Parles | Parle | Parlons | Parlez | Parlent |
+| Arriver (arrive) | Arrive | Arrives | Arrive | Arrivons | Arrivez | Arrivent |
+| Descendre (go down) | Descende | Descendes | Descende | Descendons | Descendez | Descendent |
 
 
 ## Articles
