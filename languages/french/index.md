@@ -103,6 +103,24 @@ Les verbes qui __première lettre__ est __voyelle__ utilisent __L'__.
 | Des | De + Les |
 
 ## Adjectifs
+| Masculine        | Féminin          | Traduction   |
+|------------------|------------------|--------------|
+| Créativ**e**     | Créativ**e**     | Crative      |
+| Généreus**e**    | Généreus**e**    | Genereause   |
+| Romanti**que**   | Romanti**que**   | Romantic     |
+| Gran**d**        | Gran**de**       | Tall         |
+| Minc**e**        | Minc**e**        | Slim         |
+| Élégan**t**      | Élégan**te**     | Elegant      |
+| Cultiv**é**      | Cultiv**ée**     | Cultivated   |
+| Génér**eux**     | Génér**euse**    | Generous     |
+| Libr**e**        | Libr**e**        | Free         |
+| Optimist**e**    | Optimist**e**    | Optimist     |
+| Positiv**e**     | Positiv**e**     | Positive     |
+| Peti**t**        | Peti**te**       | Small        |
+| Timid**e**       | Timid**e**       | Shy          |
+| Douc**e**        | Douc**e**        | Sweet        |
+| Indépendant**e** | Indépendant**e** | Independent  |
+| Sport**if**      | Sport**ive**     | Ahletic      |
 
 ### Les adjectifs démonstratifs
 > Pour désigner quelque chose
@@ -125,18 +143,30 @@ Les verbes qui __première lettre__ est __voyelle__ et le genre est __masculin__
 
 ### La forme interrogative
 
-> __Pourquoi__ habitez-vous à Pontoise? __Parce que__ je suis ... (specific) __Parc que'il y a__ des ... (general)
+> __Pourquoi__ habitez-vous à Pontoise? - __Parce que__ je suis ... (specific) __Parc que'il y a__ des ... (general)
 
-> __Est-ce que__ vous travaillez ...? __Non__, je ne...
+> __Est-ce que__ vous travaillez ...? - __Non__, je ne...
 
-> Vous avez la carte ...? __Oui__.
+> Vous avez la carte ...? - __Oui__.
 
-> __Quel__ est le nom ...? L'Hôtel des Alpes.
+> __Quel__ est le nom ...? - L'Hôtel des Alpes.
 
-> Vous habitez à __quelle__ adresse? 20 vue ...
+> Vous habitez à __quelle__ adresse? - 20 vue ...
 
 ### La forme négative
 
 > Je __ne__ parle __pas__ bien anglais.
 
 > Je __n'ai__  __pas__ cours le mardi.
+
+## Les pronoms toniques pour parler des personnes
+
+| Je  | Tu  | Il/Elle  | Nous | Vous | Ils/Elles |
+|:---:|:---:|:--------:|:----:|:----:|:---------:|
+| Moi | Toi | Lui/Elle | Nous | Vous | Eux/Elles |
+
+>  Qui est la plus belle ? - C’est moi !
+> | _Who’s the most beautiful? - I am!_
+
+> Ils sont français, mais vous, vous êtes belges.
+>| _They’re French, but (you) you’re Belgian._
